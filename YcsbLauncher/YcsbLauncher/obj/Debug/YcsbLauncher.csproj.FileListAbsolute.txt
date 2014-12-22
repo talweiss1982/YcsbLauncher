@@ -1,7 +1,0 @@
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\bin\Debug\YcsbLauncher.exe.config
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\obj\Debug\YcsbLauncher.csprojResolveAssemblyReference.cache
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\bin\Debug\YcsbLauncher.exe
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\bin\Debug\YcsbLauncher.pdb
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\obj\Debug\YcsbLauncher.exe
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\obj\Debug\YcsbLauncher.pdb
-C:\work\YCSB launcher\YcsbLauncher\YcsbLauncher\bin\Debug\YcsbConfig.xml
