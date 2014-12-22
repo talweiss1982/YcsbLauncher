@@ -1,0 +1,6 @@
+﻿<YcsbConfiguration>
+  <WorkloadDir>c:\work\Tests</WorkloadDir>
+  <DbBindingClass>com.yahoo.ycsb.db.RavenDBClient</DbBindingClass>
+  <YcsbWorkingDirectory>C:/work/YCSB/ravenDb-binding</YcsbWorkingDirectory>
+  <ResultsDirectory>c:\work\Tests\Ycsb\</ResultsDirectory>
+</YcsbConfiguration>
